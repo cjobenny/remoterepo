@@ -46,5 +46,5 @@ if [ $c -eq 1 ]
 then
 	echo "Founded at $((mid+1))"
 else
-	echo "Not Found"
+	echo "Not Founded"
 fi
