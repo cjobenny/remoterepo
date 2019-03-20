@@ -18,6 +18,7 @@ do
 		fi
 	done
 done
+aswin
 echo "Sorted Array is"
 for((i=0;i<$n;i++))
 do
