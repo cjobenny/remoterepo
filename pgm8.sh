@@ -36,4 +36,5 @@ then
 	echo `echo "scale=2; $n1 * $n2" | bc -l`
 fi
 done
+echo "Changed"
 
